@@ -1,0 +1,26 @@
+.titulo1{
+    position: relative;
+    text-align: center;
+}
+.logotec1{
+    position: relative;
+    width: 200px;
+    height: 180px;
+    margin-left: 520px;
+}
+.interfa1{
+    position: relative;
+    text-align: center;
+    margin-top: 20px;
+}
+.footera{
+    position: relative;
+    text-align: center;
+}
+.boton{
+    position: relative;
+    margin-top: -120px;
+    margin-left: 1000px;
+    width: 130px;
+    height: 130px;
+}
